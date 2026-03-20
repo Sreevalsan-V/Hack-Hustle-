@@ -1,0 +1,12 @@
+# Python dependencies for the Fraud Detection System
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+kafka-python>=2.0.2
+neo4j>=5.18.0
+scikit-learn>=1.4.0
+torch>=2.2.0
+torch-geometric>=2.5.0
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
